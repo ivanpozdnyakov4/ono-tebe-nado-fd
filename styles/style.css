@@ -7,7 +7,9 @@ address {
     font-weight: 400;
     line-height: 24.3px;
     }
-
+body {
+    max-width: 1100px;
+}
 .article {
     position: relative;
 }
@@ -296,7 +298,7 @@ address {
 .about {
     padding: 0px 24px 0px;
     display: grid;
-    grid-template-columns: 334px 1fr;
+    grid-template-columns: 351px 1fr;
     align-items: start;
     justify-items: center;
 }
@@ -343,6 +345,7 @@ address {
     display: flex;
     flex-direction: column;
     gap: 24px;
+    max-width: 693px;
 }
 
 .about__text {
@@ -369,7 +372,11 @@ address {
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    line-height: 24.3px
+    line-height: 24.3px;
+}
+
+.footer_address {
+    max-width: 260.7px;
 }
 
 
@@ -398,7 +405,7 @@ address {
     align-items: flex-start;
     gap: 48px;
     list-style: none;
-    margin-left: 6px;
+    margin-left: 12px;
 }
 
 .footer__social-list-item {
