@@ -146,7 +146,6 @@ address {
 }
 
 .cover__description-letterspacing {
-
     letter-spacing: 24.2px;
 }
 
@@ -185,15 +184,15 @@ address {
     font-weight: 500;
     line-height: normal;
     text-transform: uppercase;
-
 }
+
 .lots {
     padding: 180px 24px 120px;
     display: flex;
     flex-direction: column;
 }
 
-.lots__heading{
+.lots__heading {
     color: #000;
     font-family: "Raleway", sans-serif;
     font-size: 40px;
@@ -273,7 +272,6 @@ address {
 }
 
 .card_type_picture {
-
     background-image: url(../images/card-lot-03.jpg);
     background-position: center ;
     background-size: cover;
@@ -315,7 +313,7 @@ address {
     margin-top: 35px;
 }
 
-.about-img{
+.about-img {
     width: 148px;
     height: 114px;
     flex-shrink: 0;
@@ -372,7 +370,6 @@ address {
     font-style: normal;
     font-weight: 400;
     line-height: 24.3px
-
 }
 
 
