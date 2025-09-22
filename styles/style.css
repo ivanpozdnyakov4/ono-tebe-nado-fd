@@ -54,7 +54,7 @@ address {
 }
 
 
-.header__links-list-item_no-bullit{
+.header__links-list-item_no-bullit {
     list-style: none;
 }
 
@@ -122,7 +122,7 @@ address {
     font-family: "Raleway", sans-serif;
     font-size: 100px;
     font-style: normal;
-    font-weight: 700;   
+    font-weight: 700;
     letter-spacing: 0.3em;
     text-transform: uppercase;
 }
@@ -212,7 +212,7 @@ address {
     flex-direction:row;
     gap: 25px;
     list-style: none;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
 }
 
 .lots__card-list-item {
@@ -245,7 +245,7 @@ address {
     z-index: 2;
 }
 
-.card-text { 
+.card-text {
     color: #FFF;
     font-family: "Raleway", sans-serif;
     font-size: 20px;
