@@ -33,7 +33,7 @@
     text-decoration: underline;
     text-decoration-color: black;
     text-decoration-thickness: 1px;
-    text-underline-offset: 4px; 
+    text-underline-offset: 4px;
 }
 
 .list_circle {
@@ -202,7 +202,7 @@
 }
 
 .card_link {
-
+    color: #FFF;
 }
 
 .card-title {
