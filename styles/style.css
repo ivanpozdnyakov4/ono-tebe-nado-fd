@@ -369,7 +369,7 @@
 
 .socials {
     display: flex;
-    align-items: flex-start;    
+    align-items: flex-start;
     gap: 48px;
     list-style: none;
     margin-left: 12px;
